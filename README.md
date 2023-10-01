@@ -1,1 +1,3 @@
 # Wine-Quality-Prediction
+
+Wine quality prediction using linear regression involves building a mathematical model that analyzes the relationship between various input factors (such as acidity, alcohol content, etc.) and the quality of wine. By fitting a linear equation to this data, we can make predictions about the quality of a wine based on its characteristics. Linear regression is a simple yet effective method for this task, providing insights into how each input factor contributes to the overall quality rating. This predictive model can be valuable for wine producers and enthusiasts alike, helping them make informed decisions about improving wine quality.
